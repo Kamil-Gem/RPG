@@ -10,3 +10,5 @@ Key:
 _ - Empty space
 C - Coin
 [int] - This many coins required (also loads a new map when successfully used)
+
+I am aware the code is not great. This was my first time making a project of this scale.
